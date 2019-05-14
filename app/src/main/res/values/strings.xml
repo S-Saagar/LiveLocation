@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LiveLocation</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="notification_text">Tap here to stop tracking</string>
+
+    <string name="firebase_email" translatable="false">replace with your login data</string>
+    <string name="firebase_password" translatable="false">replace with your login data</string>
+
+    <string name="firebase_path">location</string>
+    <string name="transport_id">FOS</string>
+
+</resources>
